@@ -1,5 +1,4 @@
-# Plant-VTLO-
-Plataforma 
+ 
 /PlantVTLO
     /frontend
         /src
